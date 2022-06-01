@@ -1,5 +1,5 @@
 package package_ThreadsPrograms;
-// Vishal
+
 public class GreenSignalThread extends Thread{
      String msg = "";
 
